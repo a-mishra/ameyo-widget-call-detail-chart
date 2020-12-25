@@ -1,0 +1,9 @@
+{
+    "name":"call-summary-dashboard-app",
+    "version":"1.0.5",
+    "minimumRequiredAmeyoVersion":"4.0.0",
+    "incompatibleAmeyoVersions": [],
+    "description": "Dashboard: SuceessRate",
+    "author":"Ashutosh Mishra | a-mishra@pm.me"
+}
+    
